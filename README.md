@@ -1,6 +1,4 @@
-**Artificial Intelligence Course Repository**
-
-Welcome to the GitHub repository for the Artificial Intelligence course in the Software Engineering program!
+## Welcome to the GitHub repository for the IA course in the Software Engineering program!
 
 This repository serves as a central hub for all course materials, including code examples, projects, and resources related to AI concepts. Whether you're just getting started or looking to dive deeper into advanced topics, you'll find a wealth of information here to support your learning journey.
 
